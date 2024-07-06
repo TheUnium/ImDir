@@ -1,0 +1,3 @@
+/home/unium/Projects/personal/ImFileManager/cmake-build-debug/CMakeFiles/ImFileManager.dir
+/home/unium/Projects/personal/ImFileManager/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/unium/Projects/personal/ImFileManager/cmake-build-debug/CMakeFiles/rebuild_cache.dir

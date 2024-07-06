@@ -1,0 +1,18 @@
+# ninja log v6
+3	2255	1720215274401179145	CMakeFiles/ImFileManager.dir/imgui/imgui_widgets.cpp.o	6096d86e80a87f02
+2	366	1720217147966834569	CMakeFiles/ImFileManager.dir/src/terminal.cpp.o	6e91a0dd0bc20f35
+3	2073	1720215274401179145	CMakeFiles/ImFileManager.dir/imgui/imgui_draw.cpp.o	1d60a59ec76ed15f
+2	909	1720215274401179145	CMakeFiles/ImFileManager.dir/src/file_operations.cpp.o	f86780b12bf283b8
+0	300	1720213045757572494	CMakeFiles/ImFileManager.dir/main.cpp.o	a7b3e97073ff5ea2
+2	583	1720215274401179145	CMakeFiles/ImFileManager.dir/imgui/backends/imgui_impl_opengl3.cpp.o	9d09f4fc688fe93d
+3	1744	1720215274401179145	CMakeFiles/ImFileManager.dir/imgui/imgui_tables.cpp.o	fb6edd4536d6a4c1
+1	643	1720220569022466546	CMakeFiles/ImFileManager.dir/src/ui.cpp.o	8ca9a80a4d726c86
+2	2674	1720215274401179145	CMakeFiles/ImFileManager.dir/imgui/imgui.cpp.o	2eaf627f8f1e410
+2	335	1720217544282788557	CMakeFiles/ImFileManager.dir/src/main.cpp.o	f4b09ac29fb5dffd
+643	745	1720220569662474013	ImFileManager	f3d3c36938a36c9f
+2	583	1720215274401179145	CMakeFiles/ImFileManager.dir/imgui/backends/imgui_impl_glfw.cpp.o	4d09167fb0a7557b
+1	656	1720221444509011218	CMakeFiles/ImFileManager.dir/src/ui.cpp.o	8ca9a80a4d726c86
+656	757	1720221445165020159	ImFileManager	f3d3c36938a36c9f
+3	407	1720264749640625653	CMakeFiles/ImFileManager.dir/src/main.cpp.o	f4b09ac29fb5dffd
+4	714	1720264749640625653	CMakeFiles/ImFileManager.dir/src/ui.cpp.o	8ca9a80a4d726c86
+714	824	1720264750352631335	ImFileManager	f3d3c36938a36c9f
